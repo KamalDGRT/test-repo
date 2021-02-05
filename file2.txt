@@ -1,0 +1,2 @@
+This is file2.txt
+We have created this in the browser.
